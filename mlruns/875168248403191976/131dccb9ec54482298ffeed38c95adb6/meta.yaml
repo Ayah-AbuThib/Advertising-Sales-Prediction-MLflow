@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/Qafza/Task%206/mlruns/875168248403191976/131dccb9ec54482298ffeed38c95adb6/artifacts
+end_time: 1736797207687
+entry_point_name: ''
+experiment_id: '875168248403191976'
+lifecycle_stage: active
+run_id: 131dccb9ec54482298ffeed38c95adb6
+run_name: gradient_boosting_model_v2
+run_uuid: 131dccb9ec54482298ffeed38c95adb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736797203484
+status: 3
+tags: []
+user_id: AYA

@@ -1,0 +1,6 @@
+Duration,Name,algorithm,fit_intercept,learning_rate,max_depth,min_samples_leaf,min_samples_split,n_estimators,n_neighbors,random_state,weights,MAE,MSE,R2
+4.5s,gradient_boosting_model,,,0.01,4,,,100,,42,,2.019317838,5.394529148,0.819093872
+4.3s,linear_regression_model,,TRUE,,,,,,,,,1.430866345,2.981853883,0.900003202
+4.3s,knn_model,auto,,,,,,,4,,uniform,1.133125,2.423546875,0.918726089
+4.2s,gradient_boosting_model_v2,,,0.1,5,,,100,,42,,0.562294315,0.492014291,0.983500247
+8.4s,random_forest_model,,,,10,1,2,100,,42,,0.572164405,0.485207018,0.983728529
